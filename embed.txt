@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=HkbG39-T4H0
+vaihda osa "watch?v="
+osaan "embed/" suorassa video linkissä
